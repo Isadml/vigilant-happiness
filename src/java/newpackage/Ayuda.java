@@ -7,13 +7,13 @@ package newpackage;
 
 /**
  *
- * @author daw203
+ * @author Federico García Lorca
  */
 public class Ayuda {
     
     private String ayuda ="Esto es una ayuda";
     
-    private int num = 534;
+    private int num = 535;
     
     private String holo;
     
