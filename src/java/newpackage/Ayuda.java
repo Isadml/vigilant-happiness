@@ -15,6 +15,8 @@ public class Ayuda {
     
     private int num = 534;
     
+    private String holo;
+    
     public void pedirAyuda (){
         System.out.println(ayuda + "" + num);
     }
