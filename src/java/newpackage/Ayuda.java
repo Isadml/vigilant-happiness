@@ -14,8 +14,8 @@ public class Ayuda {
     private String ayuda ="Esto es una ayuda";
     
     private int num = 535;
-    
-    private String holo;
+
+    private String joe = "quiero irme a casa ya :( ";
     
     public void pedirAyuda (){
         System.out.println(ayuda + "" + num);
